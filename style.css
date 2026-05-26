@@ -1,0 +1,47 @@
+body {
+background-color: rgba(211, 211, 211, 0.5);
+}
+
+.container {
+  width: 400px;
+  background-color: #fff;
+  margin: 20px;
+  padding: 20px;
+}
+
+.display {
+  font-size: 20px;
+  width: 80%;
+  height: 20px;
+  background-color: #000;
+  color: #fff;
+  text-align: right;
+  line-height: 16px;
+  padding: 7px;
+}
+
+.buttons{
+padding: 2px;
+}
+
+button {
+  width: 80px;
+  height: 25px;
+  background-color: #ddd;
+  border-radius: 5px;
+  border: black 1px solid;
+  font-size: 15px;
+  margin:0.5px 0;
+}
+
+.buttons_AC{
+width:163px;
+}
+
+.buttons_equal{
+width:163px;
+}
+
+.active-button {
+border-color: #3498db;
+}
